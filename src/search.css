@@ -1,0 +1,25 @@
+.searchIcon ,.searchInput{
+ 
+   
+    color: black;
+   
+}
+.searchInput{
+    width: 90vw; 
+    border: none;
+    border-radius: 10px;
+    padding: 1vw;
+}
+.searchdiv{
+    width: 90vw;
+    display: flex;
+    gap: 1vw;
+    margin:15px;
+    background-color: 
+    white;
+    border-radius: 10px;
+    height: 5vh;
+    padding-left: 10px;
+}
+
+

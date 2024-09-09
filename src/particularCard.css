@@ -1,0 +1,88 @@
+.particularImage{
+    width:35vw;
+    height:60vh;
+    border-radius: 30px;
+    margin:1vw;
+    background-color: 
+    #C4C4C4;
+    position: relative;
+    color:white;
+   
+}
+.particularHeader{
+    display: flex;
+    font-size: 32px;
+    font-weight:700;
+}
+.backarrow{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.parentParticular{
+    position: relative;
+}
+.details-user-button{
+    position: absolute;
+    top:15%;
+    left: 40%;
+    display: flex;
+    gap:3vw;
+    margin-left:2vw;
+}
+.details-user-body{
+    position:absolute;
+    top:30%;
+    left:40%;
+
+}
+.details-btn, .user-btn{
+    
+   
+    border-radius: 7px;
+    width: 74px;
+    height: 27px;
+    border-color: white;
+    align-items: center;
+
+    padding-left: 10px;
+    
+    
+
+}
+.user-btn{
+   
+    padding-left: 20px;
+}
+.morepost{
+    margin:2vw;
+    font-weight: 600;
+    font-size: 32px;
+}
+.restpostsbyuser{
+    position: absolute;
+    left:2vw;
+    display:flex;
+    flex-wrap: wrap;
+    gap:4vw;
+    
+    
+}
+.posttitle{
+    position: absolute;
+    bottom: 5%;
+    left:10%;
+    right:30%;
+ 
+    font-weight: 600;
+}
+.logo{
+    position:absolute;
+    right:5%;
+    bottom: 5%;
+    font-weight: 500;
+    display: flex;
+    gap: 1vw;
+    margin:1vw;
+
+}

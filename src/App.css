@@ -1,0 +1,41 @@
+
+
+.card1{
+ 
+   display: flex;
+   flex-wrap: wrap;
+   gap:3vw;
+ 
+    justify-content: space-evenly;
+    position: relative;
+    
+}
+.particular-card{
+        margin: 10px;
+         position: relative;}
+
+.next{
+    position:absolute;
+    right: 0px;
+ 
+}
+.button{
+
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    right: 0px;
+    
+    background-color: #F05A22;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0.5vw;
+    
+    border-radius: 0.5rem;
+
+   
+}
+.about{
+    padding-right: 30px;
+}  
